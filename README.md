@@ -1,3 +1,11 @@
+# Main Project
+
+This repository is part of a larger project. The main GitHub repository that incorporates this one can be found here:
+
+[Main Repository](https://github.com/FilippoGrosso02/TestBIM_proj)
+
+# How to use
+
 requests to `url/image`
 method: POST
 ```json
@@ -74,10 +82,3 @@ method: POST
 ```
 returns
 `200 OK`
-
-# TestBIM_proj
-
-This repository is part of a larger project. The main GitHub repository that incorporates this one can be found here:
-
-[Main Repository](https://github.com/FilippoGrosso02/TestBIM_proj)
-
