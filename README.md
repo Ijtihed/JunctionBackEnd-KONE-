@@ -1,4 +1,4 @@
-# Main Project
+# Main Unity Project
 
 This repository is part of a larger unity project. The main Unity GitHub repository that incorporates this into a mobile application one can be found here:
 
